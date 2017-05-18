@@ -1,4 +1,4 @@
-package io.spencermateo.ccdi.Chapter1
+package io.dieselmat.ccdi.Chapter1
 
 import scala.annotation.tailrec
 

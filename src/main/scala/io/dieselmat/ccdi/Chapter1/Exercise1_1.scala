@@ -1,4 +1,4 @@
-package io.spencermateo.ccdi.Chapter1
+package io.dieselmat.ccdi.Chapter1
 
 /**
   * Created by spencermateo on 13/5/17.
